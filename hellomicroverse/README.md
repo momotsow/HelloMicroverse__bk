@@ -1,15 +1,11 @@
-Project Name
+Project Name : Hello Microverse
 Description the project.
 
-Built With
-Major languages
-Frameworks
-Technologies used
-Live Demo (if available)
-Live Demo Link
+In this project, I set up a "Hello world" repository. No complex coding is required for this exercise. The goal here is to master all of the tools and best practices you learned about in previous steps.
 
-Getting Started
-This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
+Built With
+HTML
+CSS
 
 To get a local copy up and running follow these simple example steps.
 
@@ -19,17 +15,13 @@ Install
 Usage
 Run tests
 Deployment
+
 Authors
-👤 Author1
+👤 Khomotso Mkansi
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
-👤 Author2
+GitHub: <a href="https://github.com/momotsow">Github</a>
+LinkedIn: <a href="https://www.linkedin.com/in/khomotso-prudence-mkansi-aa7794b7/">LinkedIn</a>
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
